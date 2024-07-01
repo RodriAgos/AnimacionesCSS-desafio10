@@ -201,7 +201,7 @@ footer{
     padding: 1rem;
     h3{
         color: var(--secondary);
-        margin-bottom: 0;
+        margin-bottom: 0.5rem;
         
     }
     #social-links{
@@ -214,14 +214,8 @@ footer{
     }
 }
 
-/* tablets */
-@media (width>= 576px){
-}
-
-
-
 /* Versión Desktop */
-@media (width>= 992px){
+@media (width>= 576px){
     body{
         background: #feece2;
         overflow-x: hidden;
@@ -310,17 +304,6 @@ footer{
     }
 }
 
-
-
-/* // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
-
-.outfit-<uniquifier> {
-  font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
 
 
 
